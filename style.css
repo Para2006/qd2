@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(180, 149, 209);
+    background-color: pink;
 }
 h1
 {
@@ -25,8 +25,8 @@ canvas
     animation-iteration-count: infinite;
 }
 @keyframes example {
-    from {box-shadow: 1px 1px 40px pink}
-    to {box-shadow: 1px 1px 40px gray}
+    from {box-shadow: 1px 1px 40px  rgb(180, 149, 209)}
+    to {box-shadow: 1px 1px 40px rgb(58, 58, 233)}
 }
 
 p, span
